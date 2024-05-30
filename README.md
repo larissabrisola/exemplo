@@ -1,2 +1,8 @@
 # exemplo
-Fork - Crie sua branch - push - pr 
+Fork 
+clone
+Crie sua branch 
+commit
+push 
+entra no github 
+faz o pr 
