@@ -1,14 +1,15 @@
 # exemplo
-Fork 
 
-clone
+- Fork 
 
-Crie sua branch 
+- clone
 
-commit
+- Crie sua branch 
 
-push 
+- commit
 
-entra no github 
+- push 
 
-faz o pr 
+- entra no projeto no github
+
+- faz o pull request 
